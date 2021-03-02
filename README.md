@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I'm Ayato.
+
+- [Twitter](https://twitter.com/szk_ayt)
+- [Zenn](https://zenn.dev/ayt_szk)
 
 <!--
 **ayt-szk/ayt-szk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
